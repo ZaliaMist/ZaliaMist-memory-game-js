@@ -1,2 +1,19 @@
 # ZaliaMist-memory-game-js
-A memory game as a tool to learn JS!
+A Memory Crd Game AKA JS Practice!
+
+
+
+
+Objectives:
+push()
+querySelector()
+getAttribute()
+createElement()
+appendChild()
+Math.random()
+sort()
+for loops
+
+
+Sources:
+https://youtu.be/lhNdUVh3qCc
