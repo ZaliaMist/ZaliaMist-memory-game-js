@@ -4,10 +4,6 @@ const cardArray = [
         img: 'images/background.png'
     },
     {
-        name: "blank",
-        img: 'images/blank.png'
-    },
-    {
         name: "desert",
         img: 'images/desert.png'
     },
@@ -18,6 +14,10 @@ const cardArray = [
     {
         name: "flowers2",
         img: 'images/flowers2.png'
+    },
+    {
+        name: "flower3",
+        img: 'images/flower3.png'
     },
     {
         name: "mountain",
